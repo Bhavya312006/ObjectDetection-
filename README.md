@@ -1,4 +1,4 @@
-# ObjectDetection-
+# ObjectDetection with AI voice assistance-
 import streamlit as st
 import torch
 import cv2
